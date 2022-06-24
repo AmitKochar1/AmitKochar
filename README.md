@@ -5,3 +5,4 @@
 - 📫 Email - blockhunt14@gmail.com
 -  Discord: Blockhunt#4338
 
+I have done an Online degree from Blockchain Council.  
