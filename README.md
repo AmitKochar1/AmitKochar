@@ -4,5 +4,6 @@
 - 💬 Always, looking out for exicting opportunities 
 - 📫 Email - blockhunt14@gmail.com
 -  Discord: Blockhunt#4338
+-  Twitter: @blockhunt14
 
 Encode solidity bootcamp - Novemver 2022 
