@@ -7,3 +7,12 @@
 -  Twitter: @blockhunt14
 
 Encode solidity bootcamp - Novemver 2022 
+
+
+Languages
+
+Solidity JS TS Python
+
+Github stats
+
+Top Langs
